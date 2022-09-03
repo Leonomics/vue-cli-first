@@ -92,6 +92,10 @@ export default {
   props: {
     msg: String,
   },
+  title: "Title",
+  content: {
+    message: String,
+  },
 };
 </script>
 
